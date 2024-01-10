@@ -8,6 +8,10 @@ Step1 : Run the application using Eclipse or STS
 
 Step2 : Open Postman 
 Step3 : Add HOST ENDPOINT: http://localhost:8080/employees REQUEST METHOD : GET (to show all records)
+
+![Screenshot from 2024-01-09 22-45-40](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/6146ff7c-0308-471d-b1e4-45906ee3d6a1)
+
+
         Add HOST ENDPOINT: http://localhost:8080/employee METHOD: POST 
         RequestBody: 
         {
@@ -28,7 +32,8 @@ Step3 : Add HOST ENDPOINT: http://localhost:8080/employees REQUEST METHOD : GET 
 
       
       
-     ![image](https://user-images.githubusercontent.com/118809942/205017072-44b07473-c727-4e37-826a-f416c151c1d1.png)
+     ![Screenshot from 2024-01-09 22-48-31](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/43ee37a7-82e4-489b-b22b-02bcc0aa1c2f)
+
 
       
       ADD HOST ENDPOINT: http://localhost:8080/employer METHOD : POST
@@ -48,5 +53,8 @@ Step3 : Add HOST ENDPOINT: http://localhost:8080/employees REQUEST METHOD : GET 
            "responseStatus": "RECORD NOT FOUND"
         }
     ]
+
+    ![Screenshot from 2024-01-09 22-50-36](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/f1915d3b-a0c7-4e88-ad2b-36d2a171f6e3)
+
     
     
