@@ -28,14 +28,11 @@ Step3 : Add HOST ENDPOINT: http://localhost:8080/employees REQUEST METHOD : GET 
         "responseCode": "200",
         "responseStatus": "RECORD INSERTED"
        }
-      ]
-
+      ]    
       
-      
-     ![Screenshot from 2024-01-09 22-48-31](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/43ee37a7-82e4-489b-b22b-02bcc0aa1c2f)
+![Screenshot from 2024-01-09 22-48-31](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/43ee37a7-82e4-489b-b22b-02bcc0aa1c2f)
 
-
-      
+     
       ADD HOST ENDPOINT: http://localhost:8080/employer METHOD : POST
       RequestBody: 
         {
@@ -54,7 +51,7 @@ Step3 : Add HOST ENDPOINT: http://localhost:8080/employees REQUEST METHOD : GET 
         }
     ]
 
-    ![Screenshot from 2024-01-09 22-50-36](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/f1915d3b-a0c7-4e88-ad2b-36d2a171f6e3)
+![Screenshot from 2024-01-09 22-50-36](https://github.com/Sharathrao-Appmod/Assignment-Testmicroservice/assets/155999647/f1915d3b-a0c7-4e88-ad2b-36d2a171f6e3)
 
     
     
